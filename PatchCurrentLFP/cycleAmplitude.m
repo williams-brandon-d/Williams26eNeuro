@@ -1,0 +1,5 @@
+function cycleAmplitude(data)
+
+
+
+end
